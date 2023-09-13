@@ -42,3 +42,5 @@
   職位 : 訓練員
 <hr/>
   
+### 作品集
+<img src="https://github.com/MacheHO/Resume/blob/main/LINE_P20230913_123733489.png" width="500" height="230"><br/>
