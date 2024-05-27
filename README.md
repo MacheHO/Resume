@@ -50,6 +50,6 @@
 <img src="https://github.com/MacheHO/Resume/blob/main/S__8880147.jpg" position="50%" width="900" height="500"/><br/>
 
 ## 員工入口網站<br/>
-<img src="https://github.com/MacheHO/Resume/blob/main/S__8888322.jpg" position="50%" width="900" height="500"/><br/>
-<img src="https://github.com/MacheHO/Resume/blob/main/S__8888323.jpg" position="50%" width="900" height="500"/><br/>
+<img src="https://github.com/MacheHO/Resume/blob/main/截圖 2024-05-27 上午10.58.34.png" position="50%" width="900" height="500"/><br/>
+<img src="https://github.com/MacheHO/Resume/blob/main/截圖 2024-05-27 上午10.58.57.png" position="50%" width="900" height="500"/><br/>
 。使用 Angular前端框架製作
